@@ -1,0 +1,6 @@
+{
+  "name": "nodetest",
+  "dependencies": {
+    "nodegit": "^0.27.0"
+  }
+}
